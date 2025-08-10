@@ -1,7 +1,7 @@
 # SMS Notification for PipraPay
 
-**Original Developer:** PipraPay  
-**Contributed by:** [Fattain Naime](https://iamnime.me)  
+**Original Developer:** [PipraPay](https://piprapay.com)
+**Contributed by:** [Fattain Naime](https://iamnaime.me)  
 **Tags:** sms, notification, alert, invoice, transaction, bulksms, mimsms, greenweb, custom sms gateway  
 **Requires at least:** 1.0.0  
 **Tested up to:** 1.0.1  
